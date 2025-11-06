@@ -62,7 +62,7 @@
         ],
         "event": [
             {
-                "image": "/graduation.png",
+                "image": "./graduation.png",
                 "name": "Event Name Goes Here",
                 "date": "7 Jan 2023",
                 "time": "4:30",
@@ -71,7 +71,7 @@
                 "organizer": "Kishori Gupta"
             },
             {
-                "image": "/graduation.png",
+                "image": "./graduation.png",
                 "name": "Global Education Summit",
                 "date": "15 Feb 2023",
                 "time": "3:00",
