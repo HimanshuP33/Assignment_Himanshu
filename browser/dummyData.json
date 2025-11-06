@@ -1,0 +1,116 @@
+{
+    "data": {
+        "links": [
+            {
+                "label": "Learning Resources",
+                "link": "https://www.google.com"
+            },
+            {
+                "label": "Applications",
+                "link": "https://www.google.com"
+            },
+            {
+                "label": "Wallet",
+                "link": "https://www.google.com"
+            }
+        ],
+        "contactDetails": [
+            {
+                "name": "John Doe",
+                "email": "johndoe@gmail.com",
+                "city": "Delhi",
+                "number": "9875453521",
+                "picture": "./profile.jpg"
+            },
+            {
+                "name": "Rob Guy",
+                "email": "robguy@gmail.com",
+                "city": "Hyderabad",
+                "number": "9192453522",
+                "picture": "./profile.jpg"
+            },
+            {
+                "name": "Maya Jane",
+                "email": "mayajane@gmail.com",
+                "city": "Pune",
+                "number": "98675327182",
+                "picture": "./profile.jpg"
+            }
+        ],
+        "banner": [
+            {
+                "image": "./banner.png"
+            },
+            {
+                "image": "./banner.png"
+            },
+            {
+                "image": "./banner.png"
+            }
+        ],
+        "news": [
+            {
+                "title": "Indian student tops Harvard!",
+                "description": "Indian student tops Harvard university and makes history. Its the first time for an Indian student to do this.",
+                "link": "#"
+            },
+            {
+                "title": "New AI breakthrough",
+                "description": "Scientists achieve record speed in generative AI model efficiency.",
+                "link": "#"
+            }
+        ],
+        "event": [
+            {
+                "image": "/graduation.png",
+                "name": "Event Name Goes Here",
+                "date": "7 Jan 2023",
+                "time": "4:30",
+                "meridian": "PM",
+                "location": "University of New York",
+                "organizer": "Kishori Gupta"
+            },
+            {
+                "image": "/graduation.png",
+                "name": "Global Education Summit",
+                "date": "15 Feb 2023",
+                "time": "3:00",
+                "meridian": "PM",
+                "location": "Harvard University",
+                "organizer": "Rahul Sharma"
+            }
+        ],
+        "stats": [
+            {
+                "title": "Offer Letter",
+                "number": 18,
+                "info": "Conditional",
+                "sectionColor": "blue-section"
+            },
+            {
+                "title": "Offer Letter",
+                "number": 22,
+                "info": "Un-Conditional",
+                "sectionColor": "green-section"
+            },
+            {
+                "title": "All Country",
+                "number": 30,
+                "info": "Payment Received",
+                "sectionColor": "yellow-section"
+            },
+            {
+                "title": "Offer Letter",
+                "number": 8,
+                "info": "Payment Received",
+                "sectionColor": "red-section"
+            },
+            {
+                "title": "Offer Letter",
+                "number": 8,
+                "info": "Visa Received",
+                "sectionColor": "grey-section"
+            }
+        ]
+    }
+}
